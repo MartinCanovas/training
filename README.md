@@ -4,4 +4,6 @@ This repository is for training purpose.
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos.
+
+### How to Configure Git on Linux

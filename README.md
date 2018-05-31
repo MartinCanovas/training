@@ -7,3 +7,5 @@ This repository is for training purpose.
 Sample website with plenty of files for demos.
 
 ### How to Configure Git on Linux
+
+git config --global user.name <full name>
